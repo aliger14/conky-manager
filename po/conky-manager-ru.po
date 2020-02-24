@@ -41,7 +41,7 @@ msgstr "Дополнительные места для поиска тем Conky
 
 #: EditWidgetWindow.vala:104
 msgid "Alignment"
-msgstr "Выравнивание"
+msgstr "Расположение"
 
 #: GeneratePreviewWindow.vala:69
 msgid "All Widgets (Overwrite Existing Image)"
